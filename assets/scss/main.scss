@@ -1,0 +1,85 @@
+/*-----------------------------------------------------------------
+Theme Name: Charityow
+Author: Exdesigners
+Author URI: https://themeforest.net/user/exdesigners 
+Version: 1.0.0 
+Description: Charityow - Charity & Donation Html Template  <
+ 
+-------------------------------------------------------------------
+ CSS TABLE OF CONTENTS
+-------------------------------------------------------------------
+
+01.Mixins
+02.Variables
+03.Typography
+04.Buttons 
+05.Gutter 
+06.Container 
+07.Animation 
+08.Helping 
+09.MeanMenu 
+10.Preloader
+11.Title 
+12.Common 
+13.Header 
+14.Footer 
+15.Contact 
+16.Service 
+17.Banner 
+18.About
+19.Causes 
+20.Counter 
+21.Testimonial 
+22.Donation 
+23.Team 
+24.Faq 
+25.Blog 
+26.Blog Extra 
+27.Sidebar 
+
+------------------------------------------------------------------*/
+
+
+//>> Basic Start <<//
+
+/* 01.Mixins */
+@import "_mixins";
+/* 02.Variables */
+@import "_variables";
+/* 03.Typography */
+@import "_typography";
+/* 04.Buttons */
+@import "_buttons";
+/* 05.Gutter */
+@import "_gutter";
+/* 06.Container */
+@import "_container";
+/* 07.Animation */
+@import "_animation"; 
+/* 08.Helping */
+@import "_helping"; 
+/* 09.MeanMenu */
+@import "_meanmenu";
+/* 10.Preloader */
+@import "_preloader";
+//>> Basic End <<//	
+
+
+//>> Template Section Style Start <<//  
+
+/* 11.Title */
+@import "_title";
+/* 12.Common */
+@import "_common";
+/* 13.Header */
+@import "_header";
+/* 14.Footer */
+@import "_footer";  
+/* 25.Blog */
+@import "_blog";
+/* 26.Blog Extra */
+@import "_blog-extra";
+/* 27.Sidebar */
+@import "_sidebar"; 
+//>> Template Section Style End <<//
+

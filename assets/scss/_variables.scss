@@ -1,0 +1,35 @@
+/*----------------------------------------------
+    # All Variables here
+----------------------------------------------*/
+:root {
+    
+    --body: #fff;
+    --black: #000;
+    --white: #fff; 
+    --theme: #043F2E;
+    --theme2: #C8F168;
+    --header: #241442;
+    --title: #111111;
+    --orange: #F74F22;
+    --text: #525252;
+    --border: #BABBC1;
+    --border-2: #D4DCED;
+    --bg: #EAECF3;
+    --bg2: #EBEDE2;
+    --box-shadow: 0px 4px 25px 0px rgba(0, 0, 0, 0.06);
+}
+
+// Theme Color - Defualt Colors
+$black: var(--black);
+$white: var(--white);
+$theme-color: var(--theme);
+$theme-color-2: var(--theme2);
+$title-color: var(--title);
+$orange-color: var(--orange);
+$text-color: var(--text);
+$header-color: var(--header);
+$border-color: var(--border);
+$border-color-2: var(--border-2);
+$bg-color: var(--bg);
+$bg-color-2: var(--bg2);
+$shadow: var(--box-shadow);

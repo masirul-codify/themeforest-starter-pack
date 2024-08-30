@@ -1,0 +1,19 @@
+/*----------------------------------------------
+    # Container  style here
+----------------------------------------------*/
+@media (min-width:1400px) { 
+    .causes-wrapper{
+        &.style1{
+            .container{
+                max-width: 1352px;
+            }
+        }
+    }
+
+    .header-section-2,
+    .header-2 {
+        .container {
+            max-width: 1352px;
+        }
+    }
+}
